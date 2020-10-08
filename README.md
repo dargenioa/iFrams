@@ -1,6 +1,6 @@
 # iFrams
 
-This application generate a random password based on user-selected criteria. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It also eatures a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+This application generates a random password based on user-selected criteria. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It also eatures a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
 ## Key Features
 
